@@ -1,0 +1,2 @@
+- [ ] Fix css, js linking (html files' paths would change w.r.t. the css and js files)
+- [ ] Add events and chrome API support (py -> js conversion)
